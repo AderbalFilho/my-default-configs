@@ -1,0 +1,19 @@
+{
+  "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "editor.mouseWheelZoom": true,
+  "editor.tabSize": 2,
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.startupEditor": "none",
+  "javascript.preferences.importModuleSpecifierEnding": "minimal",
+  "typescript.preferences.importModuleSpecifierEnding": "minimal",
+  "css.lint.duplicateProperties": "warning",
+  "scss.lint.duplicateProperties": "warning",
+  "css.lint.important": "warning",
+  "scss.lint.important": "warning",
+  "css.lint.zeroUnits": "warning",
+  "scss.lint.zeroUnits": "warning",
+  "prettier.singleQuote": true
+}
